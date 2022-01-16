@@ -3,7 +3,7 @@
 
 Name: Yuhang Hu
 
-USC NetID: 6062735400
+USC NetID: xxxxxxxxxx
 
 
 ## What I have done in the assignment
